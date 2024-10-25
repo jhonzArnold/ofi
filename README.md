@@ -1,9 +1,4 @@
-
-
-
-
-
-
+// codigo de prueba//
 <!DOCTYPE html>
 <html lang="es">
 <head>
